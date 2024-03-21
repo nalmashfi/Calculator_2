@@ -7,6 +7,7 @@ package calculator2;
 /**
  *
  * @author nalma
+ * A calculator that adds, subtracts, multiplies, divides numbers.
  */
 public class Calculator2 {
 
@@ -16,5 +17,6 @@ public class Calculator2 {
     public static void main(String[] args) {
         // TODO code application logic here
     }
+    
     
 }
