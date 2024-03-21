@@ -6,7 +6,7 @@ package calculator2;
 
 /**
  *
- * @author nalma
+ * @author nalmashfi
  * A calculator that adds, subtracts, multiplies, divides numbers.
  */
 public class Calculator2 {
